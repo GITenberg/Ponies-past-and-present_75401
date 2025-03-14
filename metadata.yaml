@@ -1,0 +1,36 @@
+_repo: Ponies-past-and-present_75401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbey, Walter, Sir
+    aliases:
+    - Gilbey, Walter, Sir, 1st Bart.
+    - Gilbey, Sir Walter
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '39091'
+    url: http://www.gutenberg.org/2009/agents/39091
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Gilbey
+description: ''
+gutenberg_issued: '2025-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75401'
+  lccn: 02021083
+language: en
+pgterms:marc904: https://archive.org/details/poniespastpresen0000sirw/page/n7/mode/2up
+pgterms:marc905: 20241027214319gilbey
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archives.)
+publication_note: '  $aUnited Kingdom :$bVinton & Co., Ltd., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ponies'
+- !lcc 'SF'
+- GITenberg
+title: Ponies past and present
+url: http://www.gutenberg.org/ebooks/75401
