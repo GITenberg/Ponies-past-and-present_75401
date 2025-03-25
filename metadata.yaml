@@ -1,5 +1,8 @@
 _repo: Ponies-past-and-present_75401
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75401-h/images/i-cover.jpg
 creator:
   author:
     agent_name: Gilbey, Walter, Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39091
     wikipedia: https://en.wikipedia.org/wiki/Walter_Gilbey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75401#Ponies-past-and-present
 gutenberg_issued: '2025-02-18'
 gutenberg_type: Text
 identifiers:
